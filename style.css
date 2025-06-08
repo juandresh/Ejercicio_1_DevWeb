@@ -23,4 +23,10 @@
 
 .no {
     position: absolute;
+    left: 51%;
+}
+
+.yes {
+    position: absolute;
+    left: 47%;
 }
